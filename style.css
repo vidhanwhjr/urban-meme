@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+    color: crimson;
+}
+
+#Wecam{
+    border: darkgreen;
+    width: 400px;
+    height: 500px;
+}
+
+.object_that_can_be_identified{
+    color: darkorange;
+    background-color: paleturquoise;
+    
+}
